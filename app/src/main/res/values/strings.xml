@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Beats Music</string>
+
+
+    <string name="menu">Menu</string>
+    <string name="repeat">Repeat</string>
+    <string name="play">Play</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="favorite">Added to favorites</string>
+    <string name="playlist">Playlist</string>
+    <string name="process">Beats Music Coming Soon</string>
+    <string name="buy">Buy Beats Music</string>
+    <string name="about">About</string>
+
+
+    <string name="about_desc">Contact Us</string>
+    <string name="developed_by">Developed by : Kunal Pitale</string>
+    <string name="email">Contact</string>
+    <string name="subject">Beats Music support</string>
+    <string name="playing">Now Playing</string>
+    <string name="ok">OK</string>
+    <string name="play_title">Beats Music</string>
+    <string name="play_desc">Welcome in music World</string>
+</resources>
